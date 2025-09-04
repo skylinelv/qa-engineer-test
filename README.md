@@ -25,7 +25,7 @@ README.md            # This file
 
 ## Setup Guide
 Open preferable project folder in terminal and use following commands:
-* git clone https://github.com/YourUsername/qa-engineer-test.git
+* git clone https://github.com/skylinelv/qa-engineer-test.git
 * cd qa-engineer-test
 * git checkout add-tests
 
