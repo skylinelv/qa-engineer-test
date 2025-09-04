@@ -25,9 +25,9 @@ README.md            # This file
 
 ## Setup Guide
 Open preferable project folder in terminal and use following commands:
-git clone https://github.com/YourUsername/qa-engineer-test.git
-cd qa-engineer-test
-git checkout add-tests
+* git clone https://github.com/YourUsername/qa-engineer-test.git
+* cd qa-engineer-test
+* git checkout add-tests
 
 1. Open project in Unity Hub via Add -> Add project from disk.
 2. Import AltTester SDK via Assets -> Import package -> Custom package.
