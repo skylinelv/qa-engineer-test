@@ -29,16 +29,17 @@ Open preferable project folder in terminal and use following commands:
 * cd qa-engineer-test
 * git checkout add-tests
 
-1. Open project in Unity Hub via Add -> Add project from disk.
-2. Import AltTester SDK via Assets -> Import package -> Custom package.
-3. Open AltTester Editor via AltTester -> AltTester Editor.
-4. In Scene Manager section add SampleScene.unity and make sure that checkbox is ticked.
-5. Make a new folder Builds in project folder and add folder path in Build Location section.
-6. Open AltTester Desktop.
-7. In Unity AltTester Editor press Build & Run.
-8. In AltTester Desktop press connect.
-9. In Unity AltTester Editor press Run All Tests (3)
-10. Wait for tests to be completed.
+1. Add in Unity Hub via Add -> Add project from disk.
+2. Open project and ignore compilaton error, which occurs because AltTester SDK is not imported yet.
+3. Import AltTester SDK via Assets -> Import package -> Custom package.
+4. Open AltTester Editor via AltTester -> AltTester Editor.
+5. In Scene Manager section add SampleScene.unity and make sure that checkbox is ticked.
+6. Make a new folder Builds in project folder and add folder path in Build Location section.
+7. Open AltTester Desktop.
+8. In Unity AltTester Editor press Build & Run.
+9. In AltTester Desktop press connect.
+10. In Unity AltTester Editor press Run All Tests (3)
+11. Wait for tests to be completed.
    
 
 ## Notes
